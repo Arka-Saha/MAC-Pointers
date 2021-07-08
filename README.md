@@ -1,5 +1,6 @@
-# MAC-Pointers
-
+# MAC-Pointers<br>
+<b>By Arka Saha, TECH STOP </b>
+<br><br>
 ### 1. First, Download And Extract The Mac-Pointers From This ZIP File. <i>Keep The  MAC Pointers In A New Folder!</i>
 ### 2. Open Settings > Devices
 <br> <img src="tutorial_img/img1.JPG"><br>
